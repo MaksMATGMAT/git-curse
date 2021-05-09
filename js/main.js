@@ -1,4 +1,4 @@
-console.log('проверка');
+console.log('проверка2');
 
 
 setTimeout(() => console.log(123), 1000)
