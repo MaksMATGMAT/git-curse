@@ -1,3 +1,6 @@
+console.log('проверка');
+
+
 setTimeout(() => console.log(123), 1000)
 const user = {
     name: 'Maksim',
